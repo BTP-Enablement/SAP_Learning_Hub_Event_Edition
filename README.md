@@ -37,7 +37,7 @@
 7.	恭喜你，注册成功！
 ![](_v_images/20201224163318519_20335.png)
 
-:point_right: **再次打开 SAP Learning Hub, Event Edition（https://learninghub.sap.com/teched）**
+:point_right: **打开 SAP Learning Hub, Event Edition（https://learninghub.sap.com/teched）**
 1.	点击“免费登录”
 ![](_v_images/20201224163328674_11878.png)
 

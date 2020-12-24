@@ -17,7 +17,7 @@
 
 ### 如何才能免费获取Learning Hub账号并购买考试机会，你可以按照下面的攻略进行操作：
 
-:point_right: **第一步：注册 SAP TechEd 2020 英文会议，与会者可以免费登录 SAP Learning Hub（SAP TechEd 活动版）：SAP Learning Hub, Event Edition2020年12月01日 – 2021年3月31日 更多详情请访问：https://learninghub.sap.com/teched**
+:point_right: **注册 SAP TechEd 2020 英文会议，与会者可以免费登录 SAP Learning Hub（SAP TechEd 活动版）：SAP Learning Hub, Event Edition2020年12月01日 – 2021年3月31日 更多详情请访问：https://learninghub.sap.com/teched**
 1.	点击[“注册 SAP TechEd 全球英文网站”](https://pages.sapteched.com/sap/sapteched2020/index)
 ![](_v_images/20201224163145545_23343.png)
 
@@ -37,7 +37,7 @@
 7.	恭喜你，注册成功！
 ![](_v_images/20201224163318519_20335.png)
 
-:point_right: **第二步：再次打开 SAP Learning Hub, Event Edition（https://learninghub.sap.com/teched）**
+:point_right: **再次打开 SAP Learning Hub, Event Edition（https://learninghub.sap.com/teched）**
 1.	点击“免费登录”
 ![](_v_images/20201224163328674_11878.png)
 
@@ -71,7 +71,7 @@
 13.	打开相关的电子书，开始你的学习之旅
 ![](_v_images/20201224163505086_13868.png)
 
-:point_right: **第三步：如果要购买特惠版认证考试（2次机会），需要在2020年12月31日前购买。**
+:point_right: **如果要购买特惠版认证考试（2次机会），需要在2020年12月31日前购买。**
 1.	点击Learning Room，进入SAP TechED Learning Room 2020
 ![](_v_images/20201224163515675_17328.png)
 2.	 点击“Learn and Get Certified”，查看特惠考试认证的介绍

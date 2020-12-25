@@ -81,6 +81,7 @@
 :three: 可以看到CP100, CLD200和CLD900的课程电子书教材
 ![](_v_images/20201224163447910_28615.png)
 ![](_v_images/20201224163456154_20491.png)
+
 :four:	打开相关的电子书，开始你的学习之旅
 ![](_v_images/20201224163505086_13868.png)
 
@@ -88,10 +89,13 @@
 
 :one:点击Learning Room，进入SAP TechED Learning Room 2020
 ![](_v_images/20201224163515675_17328.png)
+
 :two:点击“Learn and Get Certified”，查看特惠考试认证的介绍
 ![](_v_images/20201224163522953_7515.png)
+
 :three:点击“Buy Now”进行购买
 ![](_v_images/20201224163531472_993.png)
+
 :four:点击“加入购物篮”进行付款操作，具体的付款过程参考这个链接（https://jam2.sapjam.com/wiki/show/wKuQ8WmxEaqNKTtlCEJJI4?_lightbox=true）
 ![](_v_images/20201224163540303_18222.png)
 

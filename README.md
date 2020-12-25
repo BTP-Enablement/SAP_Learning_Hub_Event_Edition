@@ -4,6 +4,7 @@
 **年终岁末将至，又到了一年的休假季，大家共同经历了注定不平凡的2020，面对依旧严峻的疫情，做一个“技术宅”相信会是许多开发顾问的首选休假模式。如何将假期过得更加充实些，作为SAP生态里的一员，获取一个SAP云平台技术顾问认证，无疑将会是最好的新年礼物:gift:，也是对自己技术能力的最佳诠释:muscle:。**
 
 **:bulb:目前，SAP云平台的顾问有2门认证:trophy:，主要面向SAP云平台集成和SAP云平台扩展开发，大家可以根据自己的需求选择报考：**
+
 :one:SAP云平台集成 - **C_CPI_13**（SAP Certified Development Associate – SAP Cloud Platform Integration），考试内容基于课程**CP100**和**CLD900**
 ![](_v_images/20201224162625324_22557.png)
 :two:SAP云平台企业扩展 – **C_CPE_12** （SAP Certified Development Associate – SAP Cloud Platform Enterprise Extensions），考试内容基于**CP100**和**CLD200**
@@ -18,6 +19,7 @@
 ### :question:如何才能免费获取Learning Hub账号并购买考试机会，你可以按照下面的攻略进行操作：
 
 :point_right: **注册 SAP TechEd 2020 英文会议，与会者可以免费登录 SAP Learning Hub（SAP TechEd 活动版）：SAP Learning Hub, Event Edition2020年12月01日 – 2021年3月31日 更多详情请访问：https://learninghub.sap.com/teched**
+
 :one:点击[“注册 SAP TechEd 全球英文网站”](https://pages.sapteched.com/sap/sapteched2020/index)
 ![](_v_images/20201224163145545_23343.png)
 
@@ -38,6 +40,7 @@
 ![](_v_images/20201224163318519_20335.png)
 
 :point_right: **打开 SAP Learning Hub, Event Edition（https://learninghub.sap.com/teched）**
+
 :one:	点击“免费登录”
 ![](_v_images/20201224163328674_11878.png)
 

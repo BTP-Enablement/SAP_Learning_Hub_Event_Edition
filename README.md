@@ -46,14 +46,19 @@
 
 :two:输入称谓，点击“Save and Continue”
 ![](_v_images/20201224163335719_13409.png)
+
 :three:进入Learning Hub页面，点击“浏览Learning Room”
 ![](_v_images/20201224163342196_18815.png)
+
 :four:接受访问条款
 ![](_v_images/20201224163348033_9702.png)
+
 :five:接受个人数据隐私条例条款
 ![](_v_images/20201224163353946_19099.png)
-如果遇到下面的错误页面（一般是因为网络访问超时引起的），请换个访问外网比较通畅的时间段（比如第二天早上9点前）
+
+:warning:如果遇到下面的错误页面（一般是因为网络访问超时引起的），请换个访问外网比较通畅的时间段（比如第二天早上9点前）
 ![](_v_images/20201224163400233_18218.png)
+
 :six:点击“SAP Learning Hub Terms of Use”链接
 ![](_v_images/20201224163406257_2084.png)
 
@@ -75,13 +80,13 @@
 ![](_v_images/20201224163505086_13868.png)
 
 :point_right: **如果要购买特惠版认证考试（2次机会），需要在:date:2020年12月31日前购买。**
-1.	点击Learning Room，进入SAP TechED Learning Room 2020
+:one:点击Learning Room，进入SAP TechED Learning Room 2020
 ![](_v_images/20201224163515675_17328.png)
-2.	 点击“Learn and Get Certified”，查看特惠考试认证的介绍
+:two:点击“Learn and Get Certified”，查看特惠考试认证的介绍
 ![](_v_images/20201224163522953_7515.png)
-3.	 点击“Buy Now”进行购买
+:three:点击“Buy Now”进行购买
 ![](_v_images/20201224163531472_993.png)
-4.	 点击“加入购物篮”进行付款操作，具体的付款过程参考这个链接（https://jam2.sapjam.com/wiki/show/wKuQ8WmxEaqNKTtlCEJJI4?_lightbox=true）
+:four:点击“加入购物篮”进行付款操作，具体的付款过程参考这个链接（https://jam2.sapjam.com/wiki/show/wKuQ8WmxEaqNKTtlCEJJI4?_lightbox=true）
 ![](_v_images/20201224163540303_18222.png)
 
 

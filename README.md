@@ -10,10 +10,10 @@
 :two:SAP云平台企业扩展 – **C_CPE_12** （SAP Certified Development Associate – SAP Cloud Platform Enterprise Extensions），考试内容基于**CP100**和**CLD200**
  ![](_v_images/20201224163058268_15200.png)
 
-**:bulb:随着SAP TechED全球技术大会的顺利召开，SAP展示了众多新的云端开发技术和平台工具，为使生态体系内的开发技术顾问能快速提升技术能力，免费提供了活动版Learning Hub（SAP Learning Hub, Event Edition）:gift:，里面有21门标准课程的教材，内容涵盖：ABAP开发、SAPUI5开发、SAP Fiori开发、SAP HANA开发建模、SAP云平台集成等。**
+**:bulb:随着SAP TechED全球技术大会的顺利召开，SAP展示了众多新的云端开发技术和平台工具，为使生态体系内的开发技术顾问能快速提升技术能力，免费:free:提供了活动版Learning Hub（SAP Learning Hub, Event Edition），里面有21门标准课程的教材:books:，内容涵盖：ABAP开发、SAPUI5开发、SAP Fiori开发、SAP HANA开发建模、SAP云平台集成等。**
  ![](_v_images/20201224163110774_4722.png)
 
-**:bulb:同时，针对个人账户用户，推出了包含2次考试机会的优惠活动（购买有效期2020-12-01至2020-12-31），购买后12个月内考试完毕。**
+**:bulb:同时，针对个人账户用户，推出了包含2次考试机会的优惠活动（购买有效期:date:2020-12-01至:date:2020-12-31），购买后12个月内考试完毕。**
 ![](_v_images/20201224163128323_4264.png)
 
 ### :question:如何才能免费获取Learning Hub账号并购买考试机会，你可以按照下面的攻略进行操作：
@@ -48,21 +48,21 @@
 ![](_v_images/20201224163335719_13409.png)
 :three:进入Learning Hub页面，点击“浏览Learning Room”
 ![](_v_images/20201224163342196_18815.png)
-:four:	接受访问条款
+:four:接受访问条款
 ![](_v_images/20201224163348033_9702.png)
 :five:接受个人数据隐私条例条款
 ![](_v_images/20201224163353946_19099.png)
 如果遇到下面的错误页面（一般是因为网络访问超时引起的），请换个访问外网比较通畅的时间段（比如第二天早上9点前）
 ![](_v_images/20201224163400233_18218.png)
-:six:	点击“SAP Learning Hub Terms of Use”链接
+:six:点击“SAP Learning Hub Terms of Use”链接
 ![](_v_images/20201224163406257_2084.png)
 
-:seven:	点击“Accept”接受Learning Room访问条款
+:seven:点击“Accept”接受Learning Room访问条款
 ![](_v_images/20201224163413820_32051.png)
-:eight:	点击”Learning Content”查看课程库
+:eight:点击”Learning Content”查看课程库
 ![](_v_images/20201224163420643_8768.png)
 
-:nine:	点击“Browse all titles”浏览所有可以访问的课程
+:nine:点击“Browse all titles”浏览所有可以访问的课程
 ![](_v_images/20201224163427533_25055.png)
 
 :keycap_ten:点击“Browse by Subject Areas”选择SAP云平台相关课程
@@ -74,7 +74,7 @@
 13.	打开相关的电子书，开始你的学习之旅
 ![](_v_images/20201224163505086_13868.png)
 
-:point_right: **如果要购买特惠版认证考试（2次机会），需要在2020年12月31日前购买。**
+:point_right: **如果要购买特惠版认证考试（2次机会），需要在:date:2020年12月31日前购买。**
 1.	点击Learning Room，进入SAP TechED Learning Room 2020
 ![](_v_images/20201224163515675_17328.png)
 2.	 点击“Learn and Get Certified”，查看特惠考试认证的介绍

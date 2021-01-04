@@ -14,8 +14,6 @@
 **:bulb:随着SAP TechED全球技术大会的顺利召开，SAP展示了众多新的云端开发技术和平台工具，为使生态体系内的开发技术顾问能快速提升技术能力，免费:free:提供了活动版Learning Hub（SAP Learning Hub, Event Edition），里面有21门标准课程的教材:books:，内容涵盖：ABAP开发、SAPUI5开发、SAP Fiori开发、SAP HANA开发建模、SAP云平台集成等。**
  ![](_v_images/20201224163110774_4722.png)
 
-**:bulb:同时，针对个人账户用户，推出了包含2次考试机会的优惠活动（购买有效期:date:2020-12-01至:date:2020-12-31），购买后12个月内考试完毕。**
- ![](_v_images/20201224163128323_4264.png)
 
 
 
@@ -85,19 +83,7 @@
 :four:	打开相关的电子书，开始你的学习之旅
 ![](_v_images/20201224163505086_13868.png)
 
-:point_right: **如果要购买特惠版认证考试（2次机会），需要在:date:2020年12月31日前购买。**
 
-:one:点击Learning Room，进入SAP TechED Learning Room 2020
-![](_v_images/20201224163515675_17328.png)
-
-:two:点击“Learn and Get Certified”，查看特惠考试认证的介绍
-![](_v_images/20201224163522953_7515.png)
-
-:three:点击“Buy Now”进行购买
-![](_v_images/20201224163531472_993.png)
-
-:four:点击“加入购物篮”进行付款操作，具体的付款过程参考这个链接（https://jam2.sapjam.com/wiki/show/wKuQ8WmxEaqNKTtlCEJJI4?_lightbox=true）
-![](_v_images/20201224163540303_18222.png)
 
 
 ### :trophy:预祝大家学习快乐，顺利考取认证！:trophy:
